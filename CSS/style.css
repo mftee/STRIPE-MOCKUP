@@ -1,0 +1,20 @@
+
+
+
+#h1-font{
+    font-size: 4rem;
+}
+
+.hero {
+  min-height: 100vh;
+  background: 
+    radial-gradient(circle at 20% 20%, #ffb703, transparent 40%),
+    radial-gradient(circle at 80% 30%, #8338ec, transparent 40%),
+    radial-gradient(circle at 50% 80%, #3a86ff, transparent 40%),
+    linear-gradient(135deg, #7b2cbf, #ff006e);
+}
+
+.img-fluid{
+    padding-left: 15rem;
+    padding-bottom: 5rem
+}
